@@ -174,7 +174,7 @@ export default function Dashboard() {
     }, []);
 
     const resetDashboard = async () => {
-        try { window.speechSynthesis?.cancel(); } catch { /* safe */ }
+        try { window.speechSynthesis?.cancel(); } catch (e) { /* safe */ }
 
         // Delete all medicines for this user from DB
         if (user) {
@@ -417,7 +417,7 @@ export default function Dashboard() {
                     try {
                         const raw = localStorage.getItem('medguard_symptoms');
                         return raw ? JSON.parse(raw) : [];
-                    } catch { return []; }
+                    } catch (e) { return []; }
                 })();
 
                 const SYMPTOM_MAP = {

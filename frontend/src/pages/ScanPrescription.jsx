@@ -118,7 +118,7 @@ export default function ScanPrescription() {
 
             try {
                 medicines = jsonMatch ? JSON.parse(jsonMatch[0]) : [];
-            } catch {
+            } catch (e) {
                 console.error('[OCR] Failed to parse response:', text);
                 setError('Could not parse the prescription. Please try a clearer photo.');
                 setAnalyzing(false);

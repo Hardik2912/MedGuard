@@ -72,7 +72,7 @@ export function useBrain(user, medicines = null) {
             if (symptomRows === null) {
                 try {
                     symptomIds = JSON.parse(localStorage.getItem('medguard_symptoms') || '[]');
-                } catch { /* empty */ }
+                } catch (e) { /* empty */ }
             } else {
                 symptomIds = symptomRows.map(s => s.symptom_id);
             }

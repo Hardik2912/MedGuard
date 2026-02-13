@@ -89,7 +89,7 @@ export default function AIAssistant() {
                 if (meds?.length > 0) {
                     medContext = `\n\nUser's current medicines: ${meds.map(m => `${m?.name} (${m?.dosage}, ${m?.frequency})`).join(', ')}`;
                 }
-            } catch { /* skip */ }
+            } catch (e) { /* skip */ }
 
             // Build request parts
             const parts = [];

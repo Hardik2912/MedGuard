@@ -103,7 +103,7 @@ export async function safeMutation(table, mutationFn) {
 export function safeJsonParse(str, fallback = null) {
     try {
         return JSON.parse(str);
-    } catch {
+    } catch (e) {
         return fallback;
     }
 }
@@ -117,7 +117,7 @@ export function safeStorageGet(key, fallback = null) {
         const raw = localStorage.getItem(key);
         if (raw === null) return fallback;
         return JSON.parse(raw);
-    } catch {
+    } catch (e) {
         return fallback;
     }
 }
