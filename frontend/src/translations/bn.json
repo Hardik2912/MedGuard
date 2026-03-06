@@ -1,0 +1,20 @@
+{
+  "title": "সিনিয়র মোড",
+  "reminder": "ওষুধের রিমাইন্ডার",
+  "hearReminder": "রিমাইন্ডার শুনুন",
+  "medicineTime": "এখন আপনার ওষুধ খাওয়ার সময়",
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "medicineList": "ওষুধের তালিকা",
+  "takeAfterFood": "খাবারের পরে নিন",
+  "speak": "শুনুন",
+  "uploadPrescription": "প্রেসক্রিপশন আপলোড",
+  "refresh": "রিফ্রেশ",
+  "recordSymptom": "লক্ষণ রেকর্ড করুন",
+  "talkToAi": "AI এর সাথে কথা বলুন",
+  "exitSeniorMode": "সিনিয়র মোড থেকে বের হন",
+  "nextMedicine": "পরবর্তী ওষুধ",
+  "dueIn": "বাকি সময়",
+  "recordVoice": "Record Loved One Voice",
+  "stopRecording": "Stop Recording",
+  "playSavedVoice": "Play Saved Voice"
+}

@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased;
+  }
+
+  /* Custom Scrollbar for Webkit */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-slate-100;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-slate-300 rounded-full hover:bg-slate-400 transition-colors;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-blue-600 text-white rounded-full py-3 px-8 font-bold shadow-lg shadow-blue-200 transition-transform active:scale-95 hover:bg-blue-700 hover:shadow-xl;
+  }
+
+  .card-base {
+    @apply bg-white rounded-3xl shadow-sm border border-slate-100 p-6;
+  }
+
+  .input-field {
+    @apply w-full bg-slate-50 border-2 border-transparent focus:border-blue-500 rounded-2xl px-5 py-4 text-lg outline-none transition-colors;
+  }
+}

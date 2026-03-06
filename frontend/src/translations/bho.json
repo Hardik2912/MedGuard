@@ -1,0 +1,20 @@
+{
+  "title": "सीनियर मोड",
+  "reminder": "दवाई याद",
+  "hearReminder": "याद सुनीं",
+  "medicineTime": "अब रउआ दवाई खाए के समय हो गइल बा",
+  "selectLanguage": "भाषा चुनीं",
+  "medicineList": "दवाई सूची",
+  "takeAfterFood": "खाना के बाद लीं",
+  "speak": "सुनीं",
+  "uploadPrescription": "प्रिस्क्रिप्शन अपलोड करीं",
+  "refresh": "रिफ्रेश",
+  "recordSymptom": "लक्षण रिकॉर्ड करीं",
+  "talkToAi": "AI से बात करीं",
+  "exitSeniorMode": "सीनियर मोड से बाहर जाईं",
+  "nextMedicine": "अगिला दवाई",
+  "dueIn": "बाकी समय",
+  "recordVoice": "अपना आवाज रिकॉर्ड करीं",
+  "stopRecording": "रिकॉर्डिंग रोकीं",
+  "playSavedVoice": "सेव आवाज सुनाईं"
+}

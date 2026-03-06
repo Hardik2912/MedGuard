@@ -1,0 +1,20 @@
+{
+  "title": "సీనియర్ మోడ్",
+  "reminder": "మందుల గుర్తుచూపు",
+  "hearReminder": "గుర్తుచూపు వినండి",
+  "medicineTime": "ఇప్పుడు మీ మందు తీసుకోవాల్సిన సమయం",
+  "selectLanguage": "భాషను ఎంచుకోండి",
+  "medicineList": "మందుల జాబితా",
+  "takeAfterFood": "భోజనం తర్వాత తీసుకోండి",
+  "speak": "వినండి",
+  "uploadPrescription": "ప్రిస్క్రిప్షన్ అప్లోడ్",
+  "refresh": "రిఫ్రెష్",
+  "recordSymptom": "లక్షణం నమోదు",
+  "talkToAi": "AIతో మాట్లాడండి",
+  "exitSeniorMode": "సీనియర్ మోడ్ నుండి బయటకు",
+  "nextMedicine": "తదుపరి మందు",
+  "dueIn": "మిగిలిన సమయం",
+  "recordVoice": "Record Loved One Voice",
+  "stopRecording": "Stop Recording",
+  "playSavedVoice": "Play Saved Voice"
+}

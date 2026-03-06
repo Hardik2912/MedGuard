@@ -1,0 +1,20 @@
+{
+  "title": "ಸೀನಿಯರ್ ಮೋಡ್",
+  "reminder": "ಔಷಧಿ ನೆನಪಿನಿಕೆ",
+  "hearReminder": "ನೆನಪಿನಿಕೆ ಕೇಳಿ",
+  "medicineTime": "ಈಗ ನಿಮ್ಮ ಔಷಧಿ ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ",
+  "selectLanguage": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "medicineList": "ಔಷಧಿಗಳ ಪಟ್ಟಿ",
+  "takeAfterFood": "ಊಟದ ನಂತರ ತೆಗೆದುಕೊಳ್ಳಿ",
+  "speak": "ಕೇಳಿ",
+  "uploadPrescription": "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್ ಅಪ್‌ಲೋಡ್",
+  "refresh": "ರಿಫ್ರೆಶ್",
+  "recordSymptom": "ಲಕ್ಷಣ ದಾಖಲಿಸಿ",
+  "talkToAi": "AI ಜೊತೆ ಮಾತನಾಡಿ",
+  "exitSeniorMode": "ಸೀನಿಯರ್ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸಿ",
+  "nextMedicine": "ಮುಂದಿನ ಔಷಧಿ",
+  "dueIn": "ಉಳಿದ ಸಮಯ",
+  "recordVoice": "Record Loved One Voice",
+  "stopRecording": "Stop Recording",
+  "playSavedVoice": "Play Saved Voice"
+}

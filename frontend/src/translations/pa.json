@@ -1,0 +1,20 @@
+{
+  "title": "ਸੀਨੀਅਰ ਮੋਡ",
+  "reminder": "ਦਵਾਈ ਦੀ ਯਾਦ ਦਿਹਾਨੀ",
+  "hearReminder": "ਯਾਦ ਦਿਹਾਨੀ ਸੁਣੋ",
+  "medicineTime": "ਹੁਣ ਤੁਹਾਡੀ ਦਵਾਈ ਲੈਣ ਦਾ ਸਮਾਂ ਹੋ ਗਿਆ ਹੈ",
+  "selectLanguage": "ਭਾਸ਼ਾ ਚੁਣੋ",
+  "medicineList": "ਦਵਾਈਆਂ ਦੀ ਸੂਚੀ",
+  "takeAfterFood": "ਖਾਣੇ ਤੋਂ ਬਾਅਦ ਲਵੋ",
+  "speak": "ਸੁਣੋ",
+  "uploadPrescription": "ਪ੍ਰਿਸਕ੍ਰਿਪਸ਼ਨ ਅਪਲੋਡ ਕਰੋ",
+  "refresh": "ਰਿਫ੍ਰੈਸ਼",
+  "recordSymptom": "ਲੱਛਣ ਰਿਕਾਰਡ ਕਰੋ",
+  "talkToAi": "AI ਨਾਲ ਗੱਲ ਕਰੋ",
+  "exitSeniorMode": "ਸੀਨੀਅਰ ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਓ",
+  "nextMedicine": "ਅਗਲੀ ਦਵਾਈ",
+  "dueIn": "ਬਾਕੀ ਸਮਾਂ",
+  "recordVoice": "Record Loved One Voice",
+  "stopRecording": "Stop Recording",
+  "playSavedVoice": "Play Saved Voice"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Senior Mode",
+  "reminder": "Medication Reminder",
+  "hearReminder": "Hear Reminder",
+  "medicineTime": "It is time to take your medicine",
+  "selectLanguage": "Select Language",
+  "medicineList": "Medicine List",
+  "takeAfterFood": "Take after food",
+  "speak": "Speak",
+  "uploadPrescription": "Upload Prescription",
+  "refresh": "Refresh",
+  "recordSymptom": "Record Symptom",
+  "talkToAi": "Talk to AI",
+  "exitSeniorMode": "Exit Senior Mode",
+  "nextMedicine": "Next Medicine",
+  "dueIn": "Due In",
+  "recordVoice": "Record Loved One Voice",
+  "stopRecording": "Stop Recording",
+  "playSavedVoice": "Play Saved Voice"
+}

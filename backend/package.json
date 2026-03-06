@@ -1,0 +1,16 @@
+{
+  "name": "medguard-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env server.js",
+    "start": "node --env-file-if-exists=.env server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fuse.js": "^7.1.0",
+    "tesseract.js": "^5.1.1"
+  }
+}
